@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hijae)](https://solved.ac/hijae)
-- Daegu catholic university Computer Science student
-- 대구가톨릭대학교 컴퓨터 공학과 학생
+- 🌱 I’m currently learning Daegu catholic university Computer Science 대구가톨릭대학교 컴퓨터공학과 
+- 📫 How to reach me:
+  + hijae99@gmail.com
