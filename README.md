@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hijae)](https://solved.ac/hijae)
 - 🌱 I’m currently learning Computer Science
-- 📫 How to reach me:
-  + hijae99@gmail.com
