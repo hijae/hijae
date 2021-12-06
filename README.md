@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## 📈 Github Stats
 ![hijae's github stats](https://github-readme-stats.vercel.app/api?username=hijae)
-![hijae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hijae&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![hijae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hijae&show_icons=true&layout=compact)
 
 ## 📫 How to reach me
 - hijae99@gamil.com
