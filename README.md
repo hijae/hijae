@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there%20안녕하세요%20👋&fontSize=45&fontAlignY=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there%20안녕하세요%20👋&fontSize=45&fontAlignY=36&animation=twinkling)
 <!--
 **hijae/hijae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
