@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Google%20Assistant-4285F4?style=flat&logo=Google%20Assistant&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
