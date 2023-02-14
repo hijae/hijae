@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-## 💻 Online Judge 
+## 💻 Baekjoon Online Judge 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hijae)](https://solved.ac/hijae)
 
 ## 📈 Github Stats
