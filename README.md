@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+## My Blog
+- [개발하다 정리해보자](https://hijaedev.tistory.com/)
+
 ## 💻 Baekjoon Online Judge 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hijae)](https://solved.ac/hijae)
 
@@ -51,6 +54,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 - <a href="mailto:hijae99@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=hijae99@gamil.com"/></a>
+
 
 
 
