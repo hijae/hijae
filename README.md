@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ## 👨‍💻 About me
 - 🌱 I’m currently learning Computer Engineering
 
-<br>
-
 ## 📚 Techs, Languages and Tools that I've used at least once
 
 <p>
