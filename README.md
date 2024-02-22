@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ## 📚 Techs, Languages and Tools that I've used at least once
 
-
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp
@@ -41,6 +40,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Google%20Assistant-4285F4?style=flat&logo=Google%20Assistant&logoColor=white"/></a>&nbsp
 </p>
 <br>
+
+## 42 Born2code
+[![hisong's 42 stats](https://badge42.coday.fr/api/v2/clswi6qt1765901p42i5hcxzu/stats?cursusId=9&coalitionId=undefined)](https://github.com/Coday-meric/badge42)
+[![hisong's 42 stats](https://badge42.coday.fr/api/v2/clswi6qt1765901p42i5hcxzu/stats?cursusId=21&coalitionId=undefined)](https://github.com/Coday-meric/badge42)
 
 ## My Blog
 - [개발하다 정리해보자](https://hijaedev.tistory.com/)
