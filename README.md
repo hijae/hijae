@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 42 Born2code
 [![hisong's 42 stats](https://badge42.coday.fr/api/v2/clswi6qt1765901p42i5hcxzu/stats?cursusId=9&coalitionId=undefined)](https://github.com/Coday-meric/badge42)
-[![hisong's 42 stats](https://badge42.coday.fr/api/v2/clswi6qt1765901p42i5hcxzu/stats?cursusId=21&coalitionId=undefined)](https://github.com/Coday-meric/badge42)
+[![hisong's 42 stats](https://badge42.coday.fr/api/v2/clswi6qt1765901p42i5hcxzu/stats?cursusId=21&coalitionId=456)](https://github.com/Coday-meric/badge42)
 
 ## My Blog
 - [개발하다 정리해보자](https://hijaedev.tistory.com/)
