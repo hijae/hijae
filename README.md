@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![hijae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hijae&show_icons=true&layout=compact)
 
 ## 📫 How to reach me
-- <a href="mailto:hijae99@gamil.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=hijae99@gamil.com"/></a>
+- <a href="mailto:hijae99@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=hijae99@gamil.com"/></a>
 
 
 
