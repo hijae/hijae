@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 About me
 - 🌱 I’m currently learning Computer Engineering
 
-## 📚 Techs, Languages and Tools that I've used at least once
+## 📚 Techs, Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
@@ -28,12 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Google%20Assistant-4285F4?style=flat&logo=Google%20Assistant&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
