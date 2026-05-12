@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![hisong's 42 stats](https://badge42.coday.fr/api/v2/clswi6qt1765901p42i5hcxzu/stats?cursusId=21&coalitionId=456)](https://github.com/Coday-meric/badge42)
 
 ## My Blog
-- [개발하다 정리해보자](https://hijaedev.tistory.com/)
+- [개발하다 정리해보자](https://blog.hijae.dev/)
 
 ## 💻 Baekjoon Online Judge 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hijae)](https://solved.ac/hijae)
